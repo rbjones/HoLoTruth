@@ -2,6 +2,10 @@
 Higher Order LOgic Truth
 ========================
 
-This project seeks to place interactive and automated proof, in diverse languages interpreted in Higher Order Logic, in its proper very broad context, around which an all-enveloping deductive ecosystem is envisaged.
+A distributed representation for formal higher order logical truths and kernels supporting extension of these distributed theories by deduction.
 
-The very first stage of this project, prior to inviting collaborators, is the writing in the project wiki of a "manifesto", sketching the nature of the proposed enterprise.
+Initially just a wiki.
+
+
+
+
